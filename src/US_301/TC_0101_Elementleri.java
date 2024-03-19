@@ -14,7 +14,7 @@ public class TC_0101_Elementleri {
     @FindBy(xpath = "//h4[text()='Demo eBook']/../button")
     public WebElement addCart;
 
-    @FindBy(css = "iframe[style='display: block;']")
+    @FindBy(xpath = "//iframe[@style='display: block;']")
     public WebElement iframe1;
 
     @FindBy(css = "button[data-option='Paypal']")
@@ -23,7 +23,7 @@ public class TC_0101_Elementleri {
     @FindBy(css = "[class='Actions']>button+button")
     public WebElement addPromoCode;
 
-    @FindBy(css = "[placeholder='Promo Code']")
+    @FindBy(css = "[class='Promo-Code-Value']")
     public WebElement promoCodeText;
 
     @FindBy(xpath = "//button[text()='Apply']")
