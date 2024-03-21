@@ -14,7 +14,7 @@ public class TC_0101_Elementleri {
     @FindBy(xpath = "//h4[text()='Demo eBook']/../button")
     public WebElement addCart;
 
-    @FindBy(xpath = "//iframe[@style='display: block;']")
+    @FindBy(css = "iframe[class='EJIframeV3 EJOverlayV3'][style='display: block;']")
     public WebElement iframe1;
 
     @FindBy(css = "button[data-option='Paypal']")
