@@ -5,16 +5,16 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class TC_0101_Elementleri {
+public class TC_0101_Elements {
 
-    public TC_0101_Elementleri() {
+    public TC_0101_Elements() {
         PageFactory.initElements(BaseDriver.driver, this);
     }
 
     @FindBy(xpath = "//h4[text()='Demo eBook']/../button")
     public WebElement addCart;
 
-    @FindBy(css = "iframe[class='EJIframeV3 EJOverlayV3'][style='display: block;']")
+    @FindBy(css="iframe[class='EJIframeV3 EJOverlayV3']")
     public WebElement iframe1;
 
     @FindBy(css = "button[data-option='Paypal']")
