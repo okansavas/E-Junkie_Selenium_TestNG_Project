@@ -39,7 +39,6 @@ public class TC_0301_Elements {
     @FindBy(xpath = "//input[@name='cardnumber']")
     public WebElement cardNumber;
 
-
     @FindBy(css = "button[class='Pay-Button']")
     public WebElement payButton;
 
