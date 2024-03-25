@@ -10,7 +10,7 @@ public class TC_0101 extends BaseDriver {
 
 
     @Test
-    public void InvalidPromotionCode() {
+    public void AddingEbookToABasket() {
 
         TC_0101_Elements tce_0101 = new TC_0101_Elements();
 

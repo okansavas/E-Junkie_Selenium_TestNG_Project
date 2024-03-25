@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 public class TC_0301 extends BaseDriver {
 
     @Test
-    public void FailedPaymentCheck() {
+    public void UnsuccessfulPaymentWithDebitorCreditCard() {
 
         TC_0101_Elements tce01 = new TC_0101_Elements();
         TC_0301_Elements tce03 = new TC_0301_Elements();

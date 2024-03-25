@@ -28,8 +28,7 @@ public class TC_0401_Elements {
     @FindBy(xpath = "(//p[@class='all_text content_head2'])[1]")
     public WebElement orderNumber;
 
-    @FindBy(xpath = "//span[starts-with(@class,'download_btn')]//..")
-    public WebElement downloadButton;
+
 
 
 }

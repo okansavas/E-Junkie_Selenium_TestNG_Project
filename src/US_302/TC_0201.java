@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 public class TC_0201 extends BaseDriver {
 
     @Test
-    public void IncorrectPayment() {
+    public void FaultyPayment() {
 
         TC_0101_Elements tc1e = new TC_0101_Elements();
         TC_0201_Elements tc2e = new TC_0201_Elements();
