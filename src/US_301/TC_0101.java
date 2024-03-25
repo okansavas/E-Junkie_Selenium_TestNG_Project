@@ -15,14 +15,14 @@ public class TC_0101 extends BaseDriver {
         TC_0101_Elements tce_0101 = new TC_0101_Elements();
 
         tce_0101.addCart.click();
-        wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(tce_0101.iframe1));
-        //wait.until(ExpectedConditions.visibilityOf(tce_0101.iframe1));
+        //wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(tce_0101.iframe1));
+        wait.until(ExpectedConditions.visibilityOf(tce_0101.iframe1));
 
         driver.switchTo().frame(tce_0101.iframe1);
 
         wait.until(ExpectedConditions.elementToBeClickable(tce_0101.paypalButton));
         String paypalText = tce_0101.paypalButton.getText();
-        System.out.println("paypalText = " + paypalText);
+        // System.out.println("paypalText = " + paypalText);
 
         Assert.assertEquals(paypalText, tce_0101.paypalButton.getText(), "PayPal button did not appear");
 
@@ -35,7 +35,7 @@ public class TC_0101 extends BaseDriver {
         tce_0101.promoCodeApply.click();
 
         String invalid = tce_0101.invalidPromoCode.getText();
-        System.out.println("invalid = " + invalid);
+        //System.out.println("invalid = " + invalid);
 
         wait.until(ExpectedConditions.textToBe(By.xpath("//span[text()='Invalid promo code']"), invalid));
 

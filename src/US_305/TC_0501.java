@@ -21,7 +21,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Iterator;
 import java.util.Set;
 
-public class TC0501 extends BaseDriver {
+public class TC_0501 extends BaseDriver {
 
     @Test
     public void PaymentProcessApprovalandDownload() throws AWTException, IOException {
@@ -29,7 +29,7 @@ public class TC0501 extends BaseDriver {
         TC_0101_Elements tce01 = new TC_0101_Elements();
         TC_0301_Elements tce03 = new TC_0301_Elements();
         TC_0401_Elements tce04 = new TC_0401_Elements();
-        TC0501_Elements tce05 = new TC0501_Elements();
+        TC_0501_Elements tce05 = new TC_0501_Elements();
 
         Robot robot = new Robot();
 
