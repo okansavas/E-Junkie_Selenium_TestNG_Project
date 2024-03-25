@@ -38,14 +38,15 @@ public class BaseDriver {
     }
 
     public void LoginTest() {
-        System.out.println("Login Test Başladı");
+        //System.out.println("Login Test Başladı");
+
         driver.get("https://shopdemo.e-junkie.com/");
 
         String url = driver.getCurrentUrl();
 
         Assert.assertEquals(url, "https://shopdemo.e-junkie.com/", "Site Açılmadı");
 
-        logTutma.info("Log İşlemi Tamamlandı"); // normal bir bilgi
+        //logTutma.info("Log İşlemi Tamamlandı"); // normal bir bilgi
     }
 
     @AfterClass
@@ -55,22 +56,22 @@ public class BaseDriver {
         Tools.Wait(2);
         driver.quit();
 
-        logTutma.info("Driver Kapatıldı");
+        //logTutma.info("Driver Kapatıldı");
     }
 
-    @BeforeMethod
-    public void BeforeMethod() {
-        logTutma.info("Method Başladı");
-
-        logTutma.warn("WARN : Method Başladı, Hata oluşmuş olsa idi");
-
-    }
-
-
-    @AfterMethod
-    public void AfterMetod(ITestResult sonuc) { // TestNG nin sonuç ve isim bilgisini olduğu değişkeni
-        logTutma.info(sonuc.getName() + " Metod bitti " + (sonuc.getStatus() == 1 ? "Passed" : "failed"));
-
-        logTutma.warn("WARN : Metod bitti, hata oluşmuş olsa idi");
-    }
+//    @BeforeMethod
+//    public void BeforeMethod() {
+//        logTutma.info("Method Başladı");
+//
+//        logTutma.warn("WARN : Method Başladı, Hata oluşmuş olsa idi");
+//
+//    }
+//
+//
+//    @AfterMethod
+//    public void AfterMetod(ITestResult result) { // TestNG nin sonuç ve isim bilgisini olduğu değişkeni
+//        logTutma.info(result.getName() + " Metod finished " + (result.getStatus() == 1 ? "Passed" : "failed"));
+//
+//        logTutma.warn("WARN : Metod bitti, hata oluşmuş olsa idi");
+//    }
 }

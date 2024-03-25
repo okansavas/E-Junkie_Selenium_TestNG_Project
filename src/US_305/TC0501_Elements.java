@@ -1,0 +1,21 @@
+package US_305;
+
+import Utility.BaseDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class TC0501_Elements {
+
+    public TC0501_Elements() {
+        PageFactory.initElements(BaseDriver.driver, this);
+    }
+
+    @FindBy(xpath = "//span[starts-with(@class,'download_btn')]//..")
+    public WebElement downloadButton;
+
+    @FindBy(xpath = "(//span[@class='usd'])[2]")
+    public WebElement totalUSD;
+
+
+}

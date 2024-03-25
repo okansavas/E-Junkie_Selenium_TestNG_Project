@@ -2,7 +2,6 @@ package US_301;
 
 import Utility.BaseDriver;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -11,11 +10,13 @@ public class TC_0101 extends BaseDriver {
 
 
     @Test
-    public void AddToCart() {
+    public void AddingEbookToABasket() {
 
-        TC_0101_Elementleri tce_0101 = new TC_0101_Elementleri();
+        TC_0101_Elements tce_0101 = new TC_0101_Elements();
 
         tce_0101.addCart.click();
+        wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(tce_0101.iframe1));
+        //wait.until(ExpectedConditions.visibilityOf(tce_0101.iframe1));
 
         driver.switchTo().frame(tce_0101.iframe1);
 
