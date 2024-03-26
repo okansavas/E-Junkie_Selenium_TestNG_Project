@@ -8,13 +8,18 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import java.awt.*;
+import java.awt.event.KeyEvent;
+
 public class TC_0601 extends BaseDriver {
 
     @Test
-    public void CommunicationMessageSendingProcess() {
+    public void CommunicationMessageSendingProcess() throws AWTException {
 
         TC_0101_Elements tce01 = new TC_0101_Elements();
         TC_0601_Elements tce06 = new TC_0601_Elements();
+
+        Robot robot = new Robot();
 
         tce01.addCart.click();
         //wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(tce01.iframe1));
@@ -68,23 +73,32 @@ public class TC_0601 extends BaseDriver {
 
         driver.switchTo().alert().accept();
 
-//        //wait.until(ExpectedConditions.elementToBeClickable(tce06.recaptchaCheckbox));
-//        driver.switchTo().frame(tce06.recaptchaFrame);
-//
-//        tce06.recaptchaCheckbox.click();
-//
-//        //wait.until(ExpectedConditions.elementToBeClickable(tce06.sendMessageButton));
-//        driver.switchTo().defaultContent();
-//
-//        tce06.sendMessageButton.click();
-//
-//        wait.until(ExpectedConditions.alertIsPresent());
-//
-//        System.out.println(driver.switchTo().alert().getText());
-//
-//        driver.switchTo().alert().accept();
-//
-//        tce06.visitWebsite.click();
+        driver.switchTo().frame(tce06.recaptchaFrame);
+        wait.until(ExpectedConditions.elementToBeClickable(tce06.recaptchaCheckbox));
+
+        for (int i = 0; i < 11; i++) {
+            robot.keyPress(KeyEvent.VK_TAB);
+            Tools.Wait(1);
+            robot.keyRelease(KeyEvent.VK_TAB);
+        }
+
+        robot.keyPress(KeyEvent.VK_SPACE);
+        robot.keyRelease(KeyEvent.VK_SPACE);
+        Tools.Wait(2);
+
+        driver.switchTo().defaultContent();
+
+        wait.until(ExpectedConditions.elementToBeClickable(tce06.sendMessageButton));
+
+        tce06.sendMessageButton.click();
+
+        wait.until(ExpectedConditions.alertIsPresent());
+
+        System.out.println(driver.switchTo().alert().getText());
+
+        driver.switchTo().alert().accept();
+
+        tce06.visitWebsite.click();
 
 
     }
