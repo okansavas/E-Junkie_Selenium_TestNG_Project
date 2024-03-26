@@ -68,6 +68,24 @@ public class TC_0601 extends BaseDriver {
 
         driver.switchTo().alert().accept();
 
+//        //wait.until(ExpectedConditions.elementToBeClickable(tce06.recaptchaCheckbox));
+//        driver.switchTo().frame(tce06.recaptchaFrame);
+//
+//        tce06.recaptchaCheckbox.click();
+//
+//        //wait.until(ExpectedConditions.elementToBeClickable(tce06.sendMessageButton));
+//        driver.switchTo().defaultContent();
+//
+//        tce06.sendMessageButton.click();
+//
+//        wait.until(ExpectedConditions.alertIsPresent());
+//
+//        System.out.println(driver.switchTo().alert().getText());
+//
+//        driver.switchTo().alert().accept();
+//
+//        tce06.visitWebsite.click();
+
 
     }
 }

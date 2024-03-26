@@ -15,16 +15,21 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 
+import java.util.logging.Level;
+
+
 import java.time.Duration;
 
 public class BaseDriver {
-    public static Logger logTutma = LogManager.getLogger(); // Loglar ekleyeceğim nesneyi başlattım. (Log Deposu)
+    public static Logger logger4j2 = LogManager.getLogger(); // Loglar ekleyeceğim nesneyi başlattım. (Log Deposu)
     public static WebDriver driver;
     public static WebDriverWait wait;
 
     @BeforeClass
     public void BaslangicIslemleri() { //TearStart
         //System.out.println("Başlangıç işlemleri yapılıyor"); //driver oluşturma, wait işlemleri,
+        java.util.logging.Logger logger = java.util.logging.Logger.getLogger(""); // Get output logs.
+        logger.setLevel(Level.SEVERE);
 
         driver = new ChromeDriver();
 
@@ -46,7 +51,7 @@ public class BaseDriver {
 
         Assert.assertEquals(url, "https://shopdemo.e-junkie.com/", "Site Açılmadı");
 
-        //logTutma.info("Log İşlemi Tamamlandı"); // normal bir bilgi
+        //logger4j2.info("Log İşlemi Tamamlandı"); // normal bir bilgi
     }
 
     @AfterClass
@@ -56,22 +61,25 @@ public class BaseDriver {
         Tools.Wait(2);
         driver.quit();
 
-        //logTutma.info("Driver Kapatıldı");
+        //logger4j2.info("Driver Kapatıldı");
     }
 
-//    @BeforeMethod
-//    public void BeforeMethod() {
-//        logTutma.info("Method Başladı");
-//
-//        logTutma.warn("WARN : Method Başladı, Hata oluşmuş olsa idi");
-//
-//    }
-//
-//
-//    @AfterMethod
-//    public void AfterMetod(ITestResult result) { // TestNG nin sonuç ve isim bilgisini olduğu değişkeni
-//        logTutma.info(result.getName() + " Metod finished " + (result.getStatus() == 1 ? "Passed" : "failed"));
-//
-//        logTutma.warn("WARN : Metod bitti, hata oluşmuş olsa idi");
-//    }
+    @BeforeMethod
+    public void BeforeMethod() {
+        logger4j2.info("Test Method Başladı");
+        System.out.println("****************************************");
+
+        //logger4j2.warn("WARN : Method Başladı, Hata oluşmuş olsa idi");
+
+    }
+
+
+    @AfterMethod
+    public void AfterMetod(ITestResult result) { // TestNG nin sonuç ve isim bilgisini olduğu değişkeni
+        System.out.println("****************************************");
+        logger4j2.info(result.getName() + " Metod finished " + (result.getStatus() == 1 ? "Passed" : "Failed"));
+
+
+        //logger4j2.warn("WARN : Metod bitti, hata oluşmuş olsa idi");
+    }
 }

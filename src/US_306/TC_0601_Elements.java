@@ -36,5 +36,14 @@ public class TC_0601_Elements {
     @FindBy(xpath = "//button[@id='send_message_button']")
     public WebElement sendMessageButton;
 
+    @FindBy(xpath = "//span[@id='recaptcha-anchor']")
+    public WebElement recaptchaCheckbox;
+
+    @FindBy(xpath = "//iframe[@title='reCAPTCHA']")
+    public WebElement recaptchaFrame;
+
+    @FindBy(xpath = "//a[@class='visit_website']")
+    public WebElement visitWebsite;
+
 
 }
