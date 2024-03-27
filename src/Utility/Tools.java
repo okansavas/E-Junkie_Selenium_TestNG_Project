@@ -25,6 +25,13 @@ public class Tools {
         js.executeScript("arguments[0].click();", e); // js click : sayfanın içinden click
     }
 
+    public static void JScriptScrool(WebElement e) {
+        JavascriptExecutor js = (JavascriptExecutor) BaseDriver.driver;
+        js.executeScript("arguments[0].scrollIntoView(true);", e);
+    }
+
+
+
     public static int randomGenerator(int sinir) {
         return (int) (Math.random() * sinir);
     }
