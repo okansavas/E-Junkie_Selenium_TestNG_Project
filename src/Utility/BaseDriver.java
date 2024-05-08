@@ -45,11 +45,11 @@ public class BaseDriver {
     public void LoginTest() {
         //System.out.println("Login Test Başladı");
 
-        driver.get("https://shopdemo.e-junkie.com/");
+        driver.get("https://shopdemo.fatfreeshop.com/");
 
         String url = driver.getCurrentUrl();
 
-        Assert.assertEquals(url, "https://shopdemo.e-junkie.com/", "Site Açılmadı");
+        Assert.assertEquals(url, "https://shopdemo.fatfreeshop.com/", "Site Açılmadı");
 
         //logger4j2.info("Log İşlemi Tamamlandı"); // normal bir bilgi
     }
