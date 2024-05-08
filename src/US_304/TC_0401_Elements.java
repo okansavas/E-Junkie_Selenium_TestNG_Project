@@ -2,8 +2,7 @@ package US_304;
 
 import Utility.BaseDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.*;
 
 import java.util.List;
 
@@ -27,8 +26,6 @@ public class TC_0401_Elements {
 
     @FindBy(xpath = "(//p[@class='all_text content_head2'])[1]")
     public WebElement orderNumber;
-
-
 
 
 }

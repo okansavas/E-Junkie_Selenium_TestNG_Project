@@ -2,10 +2,7 @@ package US_303;
 
 import US_301.TC_0101_Elements;
 import Utility.BaseDriver;
-import Utility.Tools;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class TC_0301 extends BaseDriver {
