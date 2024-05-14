@@ -1,0 +1,718 @@
+2024-03-19 13:43:02.922 INFO  Log İşlemi Tamamlandı
+2024-03-19 13:43:02.939 INFO  Method Başladı
+2024-03-19 13:43:02.939 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-19 13:43:03.050 INFO  AddToCart Metod bitti Passed
+2024-03-19 13:43:03.051 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-19 13:43:05.186 INFO  Driver Kapatıldı
+2024-03-19 13:43:59.260 INFO  Log İşlemi Tamamlandı
+2024-03-19 13:43:59.274 INFO  Method Başladı
+2024-03-19 13:43:59.274 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-19 13:43:59.402 INFO  AddToCart Metod bitti Passed
+2024-03-19 13:43:59.402 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-19 13:44:01.554 INFO  Driver Kapatıldı
+2024-03-19 18:07:59.399 INFO  Log İşlemi Tamamlandı
+2024-03-19 18:07:59.412 INFO  Method Başladı
+2024-03-19 18:07:59.412 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-19 18:08:39.617 INFO  AddToCart Metod bitti failed
+2024-03-19 18:08:39.617 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-19 18:08:41.786 INFO  Driver Kapatıldı
+2024-03-19 18:12:37.076 INFO  Log İşlemi Tamamlandı
+2024-03-19 18:12:37.091 INFO  Method Başladı
+2024-03-19 18:12:37.091 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-19 18:13:17.272 INFO  AddToCart Metod bitti failed
+2024-03-19 18:13:17.273 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-19 18:13:19.458 INFO  Driver Kapatıldı
+2024-03-19 18:15:10.695 INFO  Log İşlemi Tamamlandı
+2024-03-19 18:15:10.707 INFO  Method Başladı
+2024-03-19 18:15:10.707 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-19 18:15:52.931 INFO  AddToCart Metod bitti failed
+2024-03-19 18:15:52.931 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-19 18:15:55.114 INFO  Driver Kapatıldı
+2024-03-19 18:16:09.137 INFO  Log İşlemi Tamamlandı
+2024-03-19 18:16:09.149 INFO  Method Başladı
+2024-03-19 18:16:09.149 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-19 18:16:27.229 INFO  AddToCart Metod bitti failed
+2024-03-19 18:16:27.229 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-19 18:16:43.164 INFO  Log İşlemi Tamamlandı
+2024-03-19 18:16:43.178 INFO  Method Başladı
+2024-03-19 18:16:43.178 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-19 18:17:05.349 INFO  AddToCart Metod bitti failed
+2024-03-19 18:17:05.349 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-19 18:17:07.509 INFO  Driver Kapatıldı
+2024-03-19 18:18:25.409 INFO  Log İşlemi Tamamlandı
+2024-03-19 18:18:25.423 INFO  Method Başladı
+2024-03-19 18:18:25.423 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-19 18:18:47.594 INFO  AddToCart Metod bitti failed
+2024-03-19 18:18:47.595 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-19 18:18:49.775 INFO  Driver Kapatıldı
+2024-03-19 18:19:19.246 INFO  Log İşlemi Tamamlandı
+2024-03-19 18:19:19.261 INFO  Method Başladı
+2024-03-19 18:19:19.262 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-19 18:19:41.454 INFO  AddToCart Metod bitti failed
+2024-03-19 18:19:41.455 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-19 18:19:43.537 INFO  Driver Kapatıldı
+2024-03-19 18:20:21.775 INFO  Log İşlemi Tamamlandı
+2024-03-19 18:20:21.789 INFO  Method Başladı
+2024-03-19 18:20:21.789 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-19 18:20:46.983 INFO  AddToCart Metod bitti failed
+2024-03-19 18:20:46.983 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-19 18:20:49.147 INFO  Driver Kapatıldı
+2024-03-19 18:29:19.332 INFO  Log İşlemi Tamamlandı
+2024-03-19 18:29:19.348 INFO  Method Başladı
+2024-03-19 18:29:19.348 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-19 18:29:44.750 INFO  AddToCart Metod bitti failed
+2024-03-19 18:29:44.750 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-19 18:29:46.846 INFO  Driver Kapatıldı
+2024-03-19 18:39:10.790 INFO  Log İşlemi Tamamlandı
+2024-03-19 18:39:10.803 INFO  Method Başladı
+2024-03-19 18:39:10.803 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-19 18:39:12.614 INFO  AddToCart Metod bitti Passed
+2024-03-19 18:39:12.615 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-19 18:39:14.744 INFO  Driver Kapatıldı
+2024-03-19 18:39:47.016 INFO  Log İşlemi Tamamlandı
+2024-03-19 18:39:47.030 INFO  Method Başladı
+2024-03-19 18:39:47.030 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-19 18:39:48.865 INFO  AddToCart Metod bitti Passed
+2024-03-19 18:39:48.865 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-19 18:39:51.020 INFO  Driver Kapatıldı
+2024-03-20 01:05:12.084 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:05:12.119 INFO  Method Başladı
+2024-03-20 01:05:12.121 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:05:13.939 INFO  AddToCart Metod bitti Passed
+2024-03-20 01:05:13.939 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:05:16.122 INFO  Driver Kapatıldı
+2024-03-20 01:21:02.947 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:21:02.960 INFO  Method Başladı
+2024-03-20 01:21:02.961 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:21:04.068 INFO  TC0301 Metod bitti failed
+2024-03-20 01:21:04.069 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:21:06.259 INFO  Driver Kapatıldı
+2024-03-20 01:23:19.872 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:23:19.885 INFO  Method Başladı
+2024-03-20 01:23:19.885 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:23:20.990 INFO  TC0301 Metod bitti failed
+2024-03-20 01:23:20.990 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:23:23.143 INFO  Driver Kapatıldı
+2024-03-20 01:27:05.590 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:27:05.604 INFO  Method Başladı
+2024-03-20 01:27:05.604 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:27:26.921 INFO  TC0301 Metod bitti failed
+2024-03-20 01:27:26.921 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:27:29.106 INFO  Driver Kapatıldı
+2024-03-20 01:28:20.208 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:28:20.225 INFO  Method Başladı
+2024-03-20 01:28:20.225 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:28:40.434 INFO  TC0301 Metod bitti failed
+2024-03-20 01:28:40.434 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:28:42.628 INFO  Driver Kapatıldı
+2024-03-20 01:29:42.251 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:29:42.265 INFO  Method Başladı
+2024-03-20 01:29:42.265 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:30:04.098 INFO  AddToCart Metod bitti failed
+2024-03-20 01:30:04.098 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:30:06.264 INFO  Driver Kapatıldı
+2024-03-20 01:31:28.577 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:31:28.590 INFO  Method Başladı
+2024-03-20 01:31:28.590 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:31:30.433 INFO  AddToCart Metod bitti Passed
+2024-03-20 01:31:30.433 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:31:32.608 INFO  Driver Kapatıldı
+2024-03-20 01:34:42.867 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:34:42.883 INFO  Method Başladı
+2024-03-20 01:34:42.883 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:35:05.655 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:35:05.671 INFO  Method Başladı
+2024-03-20 01:35:05.671 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:35:06.707 INFO  TC0301 Metod bitti failed
+2024-03-20 01:35:06.707 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:35:08.879 INFO  Driver Kapatıldı
+2024-03-20 01:35:30.851 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:35:30.865 INFO  Method Başladı
+2024-03-20 01:35:30.865 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:35:31.961 INFO  TC0301 Metod bitti failed
+2024-03-20 01:35:31.962 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:35:34.135 INFO  Driver Kapatıldı
+2024-03-20 01:36:13.822 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:36:13.836 INFO  Method Başladı
+2024-03-20 01:36:13.837 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:36:14.999 INFO  TC0301 Metod bitti failed
+2024-03-20 01:36:15.000 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:36:17.146 INFO  Driver Kapatıldı
+2024-03-20 01:45:08.304 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:45:08.319 INFO  Method Başladı
+2024-03-20 01:45:08.320 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:45:09.432 INFO  TC0301 Metod bitti failed
+2024-03-20 01:45:09.432 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:45:11.601 INFO  Driver Kapatıldı
+2024-03-20 01:46:11.252 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:46:11.268 INFO  Method Başladı
+2024-03-20 01:46:11.268 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:46:12.293 INFO  TC0301 Metod bitti failed
+2024-03-20 01:46:12.293 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:46:14.440 INFO  Driver Kapatıldı
+2024-03-20 01:48:18.633 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:48:18.647 INFO  Method Başladı
+2024-03-20 01:48:18.647 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:48:39.791 INFO  TC0301 Metod bitti failed
+2024-03-20 01:48:39.791 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:48:42.001 INFO  Driver Kapatıldı
+2024-03-20 01:51:29.429 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:51:29.442 INFO  Method Başladı
+2024-03-20 01:51:29.443 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:51:49.758 INFO  TC0301 Metod bitti failed
+2024-03-20 01:51:49.758 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:51:51.937 INFO  Driver Kapatıldı
+2024-03-20 01:58:30.720 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:58:30.735 INFO  Method Başladı
+2024-03-20 01:58:30.735 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 01:58:51.069 INFO  TC0301 Metod bitti failed
+2024-03-20 01:58:51.069 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 01:58:53.244 INFO  Driver Kapatıldı
+2024-03-20 01:59:56.401 INFO  Log İşlemi Tamamlandı
+2024-03-20 01:59:56.414 INFO  Method Başladı
+2024-03-20 01:59:56.415 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:00:17.540 INFO  TC0301 Metod bitti failed
+2024-03-20 02:00:17.540 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:00:19.715 INFO  Driver Kapatıldı
+2024-03-20 02:04:45.955 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:04:45.968 INFO  Method Başladı
+2024-03-20 02:04:45.968 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:04:47.812 INFO  AddToCart Metod bitti Passed
+2024-03-20 02:04:47.813 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:04:49.987 INFO  Driver Kapatıldı
+2024-03-20 02:05:27.182 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:05:27.196 INFO  Method Başladı
+2024-03-20 02:05:27.196 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:05:28.207 INFO  TC0301 Metod bitti failed
+2024-03-20 02:05:28.207 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:05:30.374 INFO  Driver Kapatıldı
+2024-03-20 02:06:20.177 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:06:20.189 INFO  Method Başladı
+2024-03-20 02:06:20.190 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:06:21.341 INFO  TC0301 Metod bitti failed
+2024-03-20 02:06:21.341 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:06:23.495 INFO  Driver Kapatıldı
+2024-03-20 02:07:10.835 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:07:10.847 INFO  Method Başladı
+2024-03-20 02:07:10.848 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:07:11.912 INFO  TC0301 Metod bitti failed
+2024-03-20 02:07:11.912 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:07:14.071 INFO  Driver Kapatıldı
+2024-03-20 02:08:36.574 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:08:36.588 INFO  Method Başladı
+2024-03-20 02:08:36.588 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:08:37.735 INFO  TC0301 Metod bitti failed
+2024-03-20 02:08:37.735 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:08:39.909 INFO  Driver Kapatıldı
+2024-03-20 02:10:07.374 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:10:07.390 INFO  Method Başladı
+2024-03-20 02:10:07.390 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:10:08.654 INFO  TC0301 Metod bitti failed
+2024-03-20 02:10:08.654 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:10:10.837 INFO  Driver Kapatıldı
+2024-03-20 02:10:53.135 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:10:53.149 INFO  Method Başladı
+2024-03-20 02:10:53.149 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:11:14.898 INFO  TC0301 Metod bitti failed
+2024-03-20 02:11:14.898 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:11:17.057 INFO  Driver Kapatıldı
+2024-03-20 02:11:41.882 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:11:41.896 INFO  Method Başladı
+2024-03-20 02:11:41.896 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:12:08.241 INFO  TC0301 Metod bitti failed
+2024-03-20 02:12:08.241 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:12:10.420 INFO  Driver Kapatıldı
+2024-03-20 02:12:30.567 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:12:30.584 INFO  Method Başladı
+2024-03-20 02:12:30.584 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:12:36.629 INFO  TC0301 Metod bitti failed
+2024-03-20 02:12:36.629 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:12:38.807 INFO  Driver Kapatıldı
+2024-03-20 02:15:11.136 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:15:11.150 INFO  Method Başladı
+2024-03-20 02:15:11.150 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:15:17.248 INFO  TC0301 Metod bitti failed
+2024-03-20 02:15:17.248 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:15:19.430 INFO  Driver Kapatıldı
+2024-03-20 02:17:07.986 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:17:08.000 INFO  Method Başladı
+2024-03-20 02:17:08.001 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:17:09.112 INFO  TC0301 Metod bitti failed
+2024-03-20 02:17:09.112 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:17:11.296 INFO  Driver Kapatıldı
+2024-03-20 02:17:58.690 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:17:58.706 INFO  Method Başladı
+2024-03-20 02:17:58.706 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:17:59.784 INFO  TC0301 Metod bitti failed
+2024-03-20 02:17:59.784 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:18:01.941 INFO  Driver Kapatıldı
+2024-03-20 02:22:48.138 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:22:48.149 INFO  Method Başladı
+2024-03-20 02:22:48.149 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:22:49.269 INFO  TC0301 Metod bitti failed
+2024-03-20 02:22:49.270 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:22:51.397 INFO  Driver Kapatıldı
+2024-03-20 02:30:26.591 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:30:26.605 INFO  Method Başladı
+2024-03-20 02:30:26.605 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:30:27.751 INFO  TC0301 Metod bitti failed
+2024-03-20 02:30:27.751 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:30:29.913 INFO  Driver Kapatıldı
+2024-03-20 02:33:02.985 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:33:02.998 INFO  Method Başladı
+2024-03-20 02:33:02.998 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:33:24.412 INFO  TC0301 Metod bitti failed
+2024-03-20 02:33:24.412 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:33:26.575 INFO  Driver Kapatıldı
+2024-03-20 02:35:17.959 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:35:17.972 INFO  Method Başladı
+2024-03-20 02:35:17.972 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:36:09.395 INFO  TC0301 Metod bitti failed
+2024-03-20 02:36:09.395 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:36:19.570 INFO  Driver Kapatıldı
+2024-03-20 02:36:36.633 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:36:36.647 INFO  Method Başladı
+2024-03-20 02:36:36.648 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:36:37.772 INFO  TC0301 Metod bitti failed
+2024-03-20 02:36:37.772 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:36:47.928 INFO  Driver Kapatıldı
+2024-03-20 02:37:04.111 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:37:04.123 INFO  Method Başladı
+2024-03-20 02:37:04.123 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:37:05.083 INFO  TC0301 Metod bitti failed
+2024-03-20 02:37:05.084 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:37:15.245 INFO  Driver Kapatıldı
+2024-03-20 02:41:59.755 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:41:59.768 INFO  Method Başladı
+2024-03-20 02:41:59.768 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:42:01.570 INFO  AddToCart Metod bitti Passed
+2024-03-20 02:42:01.570 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:42:11.719 INFO  Driver Kapatıldı
+2024-03-20 02:42:33.060 INFO  Log İşlemi Tamamlandı
+2024-03-20 02:42:33.073 INFO  Method Başladı
+2024-03-20 02:42:33.073 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 02:42:34.101 INFO  TC0301 Metod bitti failed
+2024-03-20 02:42:34.101 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 02:42:44.197 INFO  Driver Kapatıldı
+2024-03-20 22:00:06.037 INFO  Log İşlemi Tamamlandı
+2024-03-20 22:00:06.050 INFO  Method Başladı
+2024-03-20 22:00:06.050 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 22:00:07.267 INFO  TC0301 Metod bitti failed
+2024-03-20 22:00:07.268 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 22:00:17.652 INFO  Driver Kapatıldı
+2024-03-20 22:04:11.611 INFO  Log İşlemi Tamamlandı
+2024-03-20 22:04:11.624 INFO  Method Başladı
+2024-03-20 22:04:11.625 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 22:04:11.773 INFO  TC0301 Metod bitti failed
+2024-03-20 22:04:11.773 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 22:04:21.992 INFO  Driver Kapatıldı
+2024-03-20 22:06:03.122 INFO  Log İşlemi Tamamlandı
+2024-03-20 22:06:03.134 INFO  Method Başladı
+2024-03-20 22:06:03.134 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-20 22:06:03.257 INFO  TC0301 Metod bitti failed
+2024-03-20 22:06:03.257 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-20 22:06:13.405 INFO  Driver Kapatıldı
+2024-03-21 18:30:13.387 INFO  Log İşlemi Tamamlandı
+2024-03-21 18:30:13.403 INFO  Method Başladı
+2024-03-21 18:30:13.404 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-21 18:30:28.552 INFO  TC0301 Metod bitti failed
+2024-03-21 18:30:28.552 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-21 18:30:38.730 INFO  Driver Kapatıldı
+2024-03-21 18:31:31.025 INFO  Log İşlemi Tamamlandı
+2024-03-21 18:31:31.039 INFO  Method Başladı
+2024-03-21 18:31:31.039 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-21 18:32:01.217 INFO  TC0301 Metod bitti failed
+2024-03-21 18:32:01.217 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-21 18:32:11.377 INFO  Driver Kapatıldı
+2024-03-21 18:34:22.729 INFO  Log İşlemi Tamamlandı
+2024-03-21 18:34:22.744 INFO  Method Başladı
+2024-03-21 18:34:22.745 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-21 18:34:52.882 INFO  TC0301 Metod bitti failed
+2024-03-21 18:34:52.882 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-21 18:35:03.034 INFO  Driver Kapatıldı
+2024-03-21 23:14:05.725 INFO  Log İşlemi Tamamlandı
+2024-03-21 23:14:05.740 INFO  Method Başladı
+2024-03-21 23:14:05.741 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-21 23:14:07.611 INFO  AddToCart Metod bitti Passed
+2024-03-21 23:14:07.611 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-21 23:14:17.774 INFO  Driver Kapatıldı
+2024-03-21 23:15:37.110 INFO  Log İşlemi Tamamlandı
+2024-03-21 23:15:37.122 INFO  Method Başladı
+2024-03-21 23:15:37.122 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-21 23:15:37.411 INFO  TC0301 Metod bitti Passed
+2024-03-21 23:15:37.412 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-21 23:15:47.578 INFO  Driver Kapatıldı
+2024-03-21 23:16:22.265 INFO  Log İşlemi Tamamlandı
+2024-03-21 23:16:22.277 INFO  Method Başladı
+2024-03-21 23:16:22.277 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-21 23:16:22.558 INFO  TC0301 Metod bitti failed
+2024-03-21 23:16:22.558 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-21 23:16:32.735 INFO  Driver Kapatıldı
+2024-03-21 23:22:48.314 INFO  Log İşlemi Tamamlandı
+2024-03-21 23:22:48.327 INFO  Method Başladı
+2024-03-21 23:22:48.327 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-21 23:22:48.607 INFO  TC0301 Metod bitti failed
+2024-03-21 23:22:48.607 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-21 23:22:58.800 INFO  Driver Kapatıldı
+2024-03-21 23:38:48.502 INFO  Log İşlemi Tamamlandı
+2024-03-21 23:38:48.514 INFO  Method Başladı
+2024-03-21 23:38:48.515 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-21 23:38:49.938 INFO  TC0301 Metod bitti failed
+2024-03-21 23:38:49.938 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-21 23:39:00.132 INFO  Driver Kapatıldı
+2024-03-21 23:41:26.646 INFO  Log İşlemi Tamamlandı
+2024-03-21 23:41:26.659 INFO  Method Başladı
+2024-03-21 23:41:26.659 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-21 23:41:27.755 INFO  TC0301 Metod bitti failed
+2024-03-21 23:41:27.755 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-21 23:41:37.919 INFO  Driver Kapatıldı
+2024-03-21 23:45:12.949 INFO  Log İşlemi Tamamlandı
+2024-03-21 23:45:12.960 INFO  Method Başladı
+2024-03-21 23:45:12.961 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-21 23:45:14.179 INFO  TC0301 Metod bitti failed
+2024-03-21 23:45:14.180 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-21 23:45:24.340 INFO  Driver Kapatıldı
+2024-03-21 23:49:45.599 INFO  Log İşlemi Tamamlandı
+2024-03-21 23:49:45.611 INFO  Method Başladı
+2024-03-21 23:49:45.611 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-21 23:49:46.739 INFO  TC0301 Metod bitti failed
+2024-03-21 23:49:46.739 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-21 23:49:56.889 INFO  Driver Kapatıldı
+2024-03-21 23:50:35.176 INFO  Log İşlemi Tamamlandı
+2024-03-21 23:50:35.189 INFO  Method Başladı
+2024-03-21 23:50:35.189 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-21 23:50:36.328 INFO  TC0301 Metod bitti failed
+2024-03-21 23:50:36.328 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-21 23:50:46.482 INFO  Driver Kapatıldı
+2024-03-22 00:11:28.449 INFO  Log İşlemi Tamamlandı
+2024-03-22 00:11:28.466 INFO  Method Başladı
+2024-03-22 00:11:28.467 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 00:11:29.739 INFO  TC_0201 Metod bitti failed
+2024-03-22 00:11:29.739 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 00:11:39.870 INFO  Driver Kapatıldı
+2024-03-22 00:11:57.100 INFO  Log İşlemi Tamamlandı
+2024-03-22 00:11:57.112 INFO  Method Başladı
+2024-03-22 00:11:57.112 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 00:11:58.097 INFO  TC_0201 Metod bitti failed
+2024-03-22 00:11:58.097 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 00:12:08.230 INFO  Driver Kapatıldı
+2024-03-22 02:13:36.996 INFO  Log İşlemi Tamamlandı
+2024-03-22 02:13:37.019 INFO  Method Başladı
+2024-03-22 02:13:37.019 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 02:13:38.147 INFO  TC_0201 Metod bitti failed
+2024-03-22 02:13:38.147 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 02:13:48.777 INFO  Driver Kapatıldı
+2024-03-22 02:14:24.223 INFO  Log İşlemi Tamamlandı
+2024-03-22 02:14:24.235 INFO  Method Başladı
+2024-03-22 02:14:24.235 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 02:14:26.417 INFO  TC_0201 Metod bitti failed
+2024-03-22 02:14:26.417 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 02:14:36.565 INFO  Driver Kapatıldı
+2024-03-22 02:25:16.889 INFO  Log İşlemi Tamamlandı
+2024-03-22 02:25:16.902 INFO  Method Başladı
+2024-03-22 02:25:16.902 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 02:25:17.978 INFO  FailedPaymentCheck Metod bitti failed
+2024-03-22 02:25:17.978 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 02:25:28.141 INFO  Driver Kapatıldı
+2024-03-22 02:30:30.353 INFO  Log İşlemi Tamamlandı
+2024-03-22 02:30:30.365 INFO  Method Başladı
+2024-03-22 02:30:30.366 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 02:30:31.511 INFO  IncorrectPayment Metod bitti failed
+2024-03-22 02:30:31.511 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 02:30:41.672 INFO  Driver Kapatıldı
+2024-03-22 02:31:27.891 INFO  Log İşlemi Tamamlandı
+2024-03-22 02:31:27.906 INFO  Method Başladı
+2024-03-22 02:31:27.906 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 02:31:49.018 INFO  IncorrectPayment Metod bitti failed
+2024-03-22 02:31:49.018 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 02:31:59.174 INFO  Driver Kapatıldı
+2024-03-22 02:41:11.263 INFO  Log İşlemi Tamamlandı
+2024-03-22 02:41:11.275 INFO  Method Başladı
+2024-03-22 02:41:11.275 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 02:41:11.444 INFO  InvalidPromotionCode Metod bitti failed
+2024-03-22 02:41:11.444 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 02:41:21.580 INFO  Driver Kapatıldı
+2024-03-22 02:43:55.912 INFO  Log İşlemi Tamamlandı
+2024-03-22 02:43:55.925 INFO  Method Başladı
+2024-03-22 02:43:55.925 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 02:44:16.158 INFO  InvalidPromotionCode Metod bitti failed
+2024-03-22 02:44:16.158 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 02:44:26.309 INFO  Driver Kapatıldı
+2024-03-22 02:45:30.023 INFO  Log İşlemi Tamamlandı
+2024-03-22 02:45:30.035 INFO  Method Başladı
+2024-03-22 02:45:30.036 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 02:45:51.112 INFO  InvalidPromotionCode Metod bitti failed
+2024-03-22 02:45:51.112 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 02:46:01.284 INFO  Driver Kapatıldı
+2024-03-22 02:46:55.483 INFO  Log İşlemi Tamamlandı
+2024-03-22 02:46:55.496 INFO  Method Başladı
+2024-03-22 02:46:55.496 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 02:47:15.771 INFO  InvalidPromotionCode Metod bitti failed
+2024-03-22 02:47:15.771 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 02:47:25.946 INFO  Driver Kapatıldı
+2024-03-22 13:04:09.555 INFO  Log İşlemi Tamamlandı
+2024-03-22 13:04:09.586 INFO  Method Başladı
+2024-03-22 13:04:09.586 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 13:04:10.879 INFO  InvalidPromotionCode Metod bitti Passed
+2024-03-22 13:04:10.880 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 13:04:21.062 INFO  Driver Kapatıldı
+2024-03-22 13:04:53.400 INFO  Log İşlemi Tamamlandı
+2024-03-22 13:04:53.414 INFO  Method Başladı
+2024-03-22 13:04:53.414 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 13:04:54.843 INFO  InvalidPromotionCode Metod bitti Passed
+2024-03-22 13:04:54.844 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 13:05:04.929 INFO  Driver Kapatıldı
+2024-03-22 13:05:56.303 INFO  Log İşlemi Tamamlandı
+2024-03-22 13:05:56.316 INFO  Method Başladı
+2024-03-22 13:05:56.317 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 13:05:56.878 INFO  FailedPaymentCheck Metod bitti failed
+2024-03-22 13:05:56.878 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 13:06:07.064 INFO  Driver Kapatıldı
+2024-03-22 13:10:17.831 INFO  Log İşlemi Tamamlandı
+2024-03-22 13:10:17.847 INFO  Method Başladı
+2024-03-22 13:10:17.847 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 13:10:43.503 INFO  InvalidPromotionCode Metod bitti Passed
+2024-03-22 13:10:43.503 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 13:10:53.664 INFO  Driver Kapatıldı
+2024-03-22 13:11:05.236 INFO  Log İşlemi Tamamlandı
+2024-03-22 13:11:05.252 INFO  Method Başladı
+2024-03-22 13:11:05.253 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 13:11:07.217 INFO  InvalidPromotionCode Metod bitti Passed
+2024-03-22 13:11:07.217 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 13:11:17.302 INFO  Driver Kapatıldı
+2024-03-22 13:16:34.135 INFO  Log İşlemi Tamamlandı
+2024-03-22 13:16:34.150 INFO  Method Başladı
+2024-03-22 13:16:34.150 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 13:16:35.447 INFO  IncorrectPayment Metod bitti Passed
+2024-03-22 13:16:35.447 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 13:16:45.628 INFO  Driver Kapatıldı
+2024-03-22 13:20:27.813 INFO  Log İşlemi Tamamlandı
+2024-03-22 13:20:27.825 INFO  Method Başladı
+2024-03-22 13:20:27.826 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 13:20:29.138 INFO  FailedPaymentCheck Metod bitti failed
+2024-03-22 13:20:29.138 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 13:20:39.239 INFO  Driver Kapatıldı
+2024-03-22 13:22:05.547 INFO  Log İşlemi Tamamlandı
+2024-03-22 13:22:05.561 INFO  Method Başladı
+2024-03-22 13:22:05.561 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 13:22:06.886 INFO  FailedPaymentCheck Metod bitti Passed
+2024-03-22 13:22:06.888 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 13:22:17.051 INFO  Driver Kapatıldı
+2024-03-22 13:28:50.966 INFO  Log İşlemi Tamamlandı
+2024-03-22 13:28:50.978 INFO  Method Başladı
+2024-03-22 13:28:50.978 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-22 13:28:52.308 INFO  FailedPaymentCheck Metod bitti Passed
+2024-03-22 13:28:52.309 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-22 13:29:02.470 INFO  Driver Kapatıldı
+2024-03-24 03:00:32.093 INFO  Log İşlemi Tamamlandı
+2024-03-24 03:00:32.116 INFO  Method Başladı
+2024-03-24 03:00:32.116 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 03:00:52.597 INFO  FailedPaymentCheck Metod bitti failed
+2024-03-24 03:00:52.598 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 03:01:02.759 INFO  Driver Kapatıldı
+2024-03-24 03:01:28.975 INFO  Log İşlemi Tamamlandı
+2024-03-24 03:01:28.988 INFO  Method Başladı
+2024-03-24 03:01:28.988 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 03:01:49.426 INFO  FailedPaymentCheck Metod bitti failed
+2024-03-24 03:01:49.426 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 03:01:59.585 INFO  Driver Kapatıldı
+2024-03-24 03:04:07.249 INFO  Log İşlemi Tamamlandı
+2024-03-24 03:04:07.265 INFO  Method Başladı
+2024-03-24 03:04:07.265 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 03:04:09.662 INFO  FailedPaymentCheck Metod bitti Passed
+2024-03-24 03:04:09.662 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 03:04:19.848 INFO  Driver Kapatıldı
+2024-03-24 03:04:40.675 INFO  Log İşlemi Tamamlandı
+2024-03-24 03:04:40.687 INFO  Method Başladı
+2024-03-24 03:04:40.687 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 03:04:43.387 INFO  FailedPaymentCheck Metod bitti Passed
+2024-03-24 03:04:43.387 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 03:04:53.555 INFO  Driver Kapatıldı
+2024-03-24 03:14:26.396 INFO  Log İşlemi Tamamlandı
+2024-03-24 03:14:26.409 INFO  Method Başladı
+2024-03-24 03:14:26.411 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 03:14:28.864 INFO  FailedPaymentCheck Metod bitti failed
+2024-03-24 03:14:28.864 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 03:14:39.030 INFO  Driver Kapatıldı
+2024-03-24 03:18:17.660 INFO  Log İşlemi Tamamlandı
+2024-03-24 03:18:17.674 INFO  Method Başladı
+2024-03-24 03:18:17.674 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 03:18:40.730 INFO  FailedPaymentCheck Metod bitti failed
+2024-03-24 03:18:40.730 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 03:18:50.917 INFO  Driver Kapatıldı
+2024-03-24 03:33:21.914 INFO  Log İşlemi Tamamlandı
+2024-03-24 03:33:21.927 INFO  Method Başladı
+2024-03-24 03:33:21.927 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 03:33:45.049 INFO  FailedPaymentCheck Metod bitti failed
+2024-03-24 03:33:45.049 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 03:33:55.231 INFO  Driver Kapatıldı
+2024-03-24 03:39:54.724 INFO  Log İşlemi Tamamlandı
+2024-03-24 03:39:54.736 INFO  Method Başladı
+2024-03-24 03:39:54.737 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 03:40:17.672 INFO  FailedPaymentCheck Metod bitti failed
+2024-03-24 03:40:17.673 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 03:40:27.840 INFO  Driver Kapatıldı
+2024-03-24 03:42:15.593 INFO  Log İşlemi Tamamlandı
+2024-03-24 03:42:15.606 INFO  Method Başladı
+2024-03-24 03:42:15.606 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 03:42:18.509 INFO  FailedPaymentCheck Metod bitti Passed
+2024-03-24 03:42:18.509 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 03:42:28.677 INFO  Driver Kapatıldı
+2024-03-24 04:14:36.011 INFO  Log İşlemi Tamamlandı
+2024-03-24 04:14:36.025 INFO  Method Başladı
+2024-03-24 04:14:36.025 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 04:14:49.296 INFO  SuccessfulPaymentCheck Metod bitti failed
+2024-03-24 04:14:49.296 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 04:14:59.383 INFO  Driver Kapatıldı
+2024-03-24 04:17:09.130 INFO  Log İşlemi Tamamlandı
+2024-03-24 04:17:09.143 INFO  Method Başladı
+2024-03-24 04:17:09.143 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 04:17:32.556 INFO  SuccessfulPaymentCheck Metod bitti failed
+2024-03-24 04:17:32.556 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 04:17:42.662 INFO  Driver Kapatıldı
+2024-03-24 04:19:32.386 INFO  Log İşlemi Tamamlandı
+2024-03-24 04:19:32.400 INFO  Method Başladı
+2024-03-24 04:19:32.400 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 04:19:43.542 INFO  SuccessfulPaymentCheck Metod bitti failed
+2024-03-24 04:19:43.542 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 04:22:53.583 INFO  Log İşlemi Tamamlandı
+2024-03-24 04:22:53.598 INFO  Method Başladı
+2024-03-24 04:22:53.598 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 04:23:19.436 INFO  SuccessfulPaymentCheck Metod bitti failed
+2024-03-24 04:23:19.436 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 04:23:29.448 INFO  Driver Kapatıldı
+2024-03-24 04:23:50.836 INFO  Log İşlemi Tamamlandı
+2024-03-24 04:23:50.850 INFO  Method Başladı
+2024-03-24 04:23:50.851 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 04:24:05.992 INFO  SuccessfulPaymentCheck Metod bitti failed
+2024-03-24 04:24:05.992 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 04:24:16.020 INFO  Driver Kapatıldı
+2024-03-24 21:25:10.545 INFO  Log İşlemi Tamamlandı
+2024-03-24 21:25:10.569 INFO  Method Başladı
+2024-03-24 21:25:10.569 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 21:25:33.594 INFO  SuccessfulPaymentCheck Metod bitti failed
+2024-03-24 21:25:33.594 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 21:25:43.772 INFO  Driver Kapatıldı
+2024-03-24 21:27:09.685 INFO  Log İşlemi Tamamlandı
+2024-03-24 21:27:09.697 INFO  Method Başladı
+2024-03-24 21:27:09.698 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 21:27:13.428 INFO  SuccessfulPaymentCheck Metod bitti Passed
+2024-03-24 21:27:13.428 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 21:27:23.586 INFO  Driver Kapatıldı
+2024-03-24 21:27:51.447 INFO  Log İşlemi Tamamlandı
+2024-03-24 21:27:51.458 INFO  Method Başladı
+2024-03-24 21:27:51.459 WARN  WARN : Method Başladı, Hata oluşmuş olsa idi
+2024-03-24 21:28:12.589 INFO  SuccessfulPaymentCheck Metod bitti Passed
+2024-03-24 21:28:12.589 WARN  WARN : Metod bitti, hata oluşmuş olsa idi
+2024-03-24 21:28:22.739 INFO  Driver Kapatıldı
+2024-03-25 18:33:59.142 INFO  Method Başladı
+2024-03-25 18:34:05.940 INFO  CommunicationMessageSendingProcess Metod finished Passed
+2024-03-25 18:35:07.040 INFO  Method Başladı
+2024-03-25 18:35:14.320 INFO  CommunicationMessageSendingProcess Metod finished Passed
+2024-03-25 18:36:39.904 INFO  Method Başladı
+2024-03-25 18:36:45.955 INFO  CommunicationMessageSendingProcess Metod finished Passed
+2024-03-25 18:37:37.411 INFO  Test Method Başladı
+2024-03-25 18:37:44.700 INFO  CommunicationMessageSendingProcess Metod finished Passed
+2024-03-25 18:45:22.581 INFO  Test Method Başladı
+2024-03-25 18:45:30.504 INFO  CommunicationMessageSendingProcess Metod finished Passed
+2024-03-25 18:59:47.948 INFO  Test Method Başladı
+2024-03-25 19:00:15.710 INFO  CommunicationMessageSendingProcess Metod finished Failed
+2024-03-26 03:08:50.218 INFO  Test Method Başladı
+2024-03-26 03:10:18.034 INFO  CommunicationMessageSendingProcess Metod finished Failed
+2024-03-26 03:11:26.338 INFO  Test Method Başladı
+2024-03-26 03:12:53.869 INFO  CommunicationMessageSendingProcess Metod finished Failed
+2024-03-26 03:14:22.579 INFO  Test Method Başladı
+2024-03-26 03:14:31.812 INFO  CommunicationMessageSendingProcess Metod finished Failed
+2024-03-26 03:22:36.448 INFO  Test Method Başladı
+2024-03-26 03:24:03.456 INFO  CommunicationMessageSendingProcess Metod finished Failed
+2024-03-26 03:26:00.437 INFO  Test Method Başladı
+2024-03-26 03:26:16.149 INFO  CommunicationMessageSendingProcess Metod finished Passed
+2024-03-26 03:26:54.093 INFO  Test Method Başladı
+2024-03-26 03:27:14.942 INFO  CommunicationMessageSendingProcess Metod finished Passed
+2024-03-26 03:27:30.069 INFO  Test Method Başladı
+2024-03-26 03:27:50.111 INFO  CommunicationMessageSendingProcess Metod finished Passed
+2024-03-26 03:28:41.197 INFO  Test Method Başladı
+2024-03-26 03:29:08.961 INFO  CommunicationMessageSendingProcess Metod finished Passed
+2024-03-26 03:30:40.960 INFO  Test Method Başladı
+2024-03-26 03:31:02.442 INFO  CommunicationMessageSendingProcess Metod finished Failed
+2024-03-26 03:31:13.881 INFO  Test Method Başladı
+2024-03-26 03:31:35.218 INFO  CommunicationMessageSendingProcess Metod finished Failed
+2024-03-26 03:32:08.865 INFO  Test Method Başladı
+2024-03-26 03:32:29.704 INFO  CommunicationMessageSendingProcess Metod finished Failed
+2024-03-26 21:06:48.550 INFO  Test Method Başladı
+2024-03-26 21:07:09.629 INFO  CommunicationMessageSendingProcess Metod finished Failed
+2024-03-27 00:57:07.800 INFO  Test Method Başladı
+2024-03-27 00:57:09.756 INFO  AccesstoEJunkieHomePagefromShopdemoPage Metod finished Passed
+2024-03-27 01:04:14.865 INFO  Test Method Başladı
+2024-03-27 01:04:16.825 INFO  AccesstoEJunkieHomePagefromShopdemoPage Metod finished Passed
+2024-03-27 01:04:50.539 INFO  Test Method Başladı
+2024-03-27 01:04:52.307 INFO  AccesstoEJunkieHomePagefromShopdemoPage Metod finished Passed
+2024-03-27 01:25:15.225 INFO  Test Method Başladı
+2024-03-27 01:25:17.050 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 01:28:27.948 INFO  Test Method Başladı
+2024-03-27 01:28:48.726 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 01:32:35.086 INFO  Test Method Başladı
+2024-03-27 01:32:57.216 INFO  AccesstoInformationVideo Metod finished Failed
+2024-03-27 01:34:02.081 INFO  Test Method Başladı
+2024-03-27 01:34:22.422 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:00:58.461 INFO  Test Method Başladı
+2024-03-27 03:01:00.461 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:01:27.183 INFO  Test Method Başladı
+2024-03-27 03:01:34.467 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:06:30.534 INFO  Test Method Başladı
+2024-03-27 03:06:47.247 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:07:20.529 INFO  Test Method Başladı
+2024-03-27 03:07:26.900 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:12:42.017 INFO  Test Method Başladı
+2024-03-27 03:13:16.272 INFO  Test Method Başladı
+2024-03-27 03:13:42.533 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:14:16.755 INFO  Test Method Başladı
+2024-03-27 03:14:43.238 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:15:25.331 INFO  Test Method Başladı
+2024-03-27 03:16:06.551 INFO  AccesstoInformationVideo Metod finished Failed
+2024-03-27 03:16:39.751 INFO  Test Method Başladı
+2024-03-27 03:17:06.092 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:17:40.038 INFO  Test Method Başladı
+2024-03-27 03:18:07.852 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:20:12.993 INFO  Test Method Başladı
+2024-03-27 03:20:41.597 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:21:00.313 INFO  Test Method Başladı
+2024-03-27 03:21:30.620 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:24:06.865 INFO  Test Method Başladı
+2024-03-27 03:25:09.476 INFO  AccesstoInformationVideo Metod finished Failed
+2024-03-27 03:26:47.367 INFO  Test Method Başladı
+2024-03-27 03:27:49.742 INFO  AccesstoInformationVideo Metod finished Failed
+2024-03-27 03:28:45.944 INFO  Test Method Başladı
+2024-03-27 03:29:10.397 INFO  Test Method Başladı
+2024-03-27 03:30:11.762 INFO  AccesstoInformationVideo Metod finished Failed
+2024-03-27 03:31:07.561 INFO  Test Method Başladı
+2024-03-27 03:31:29.955 INFO  Test Method Başladı
+2024-03-27 03:32:12.905 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:33:09.116 INFO  Test Method Başladı
+2024-03-27 03:33:51.694 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:42:54.062 INFO  Test Method Başladı
+2024-03-27 03:43:38.094 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:45:57.447 INFO  Test Method Başladı
+2024-03-27 03:46:40.631 INFO  AccesstoInformationVideo Metod finished Passed
+2024-03-27 03:48:15.795 INFO  Test Method Başladı
+2024-03-27 03:48:17.710 INFO  AddingEbookToABasket Metod finished Passed
+2024-03-27 03:48:33.820 INFO  Test Method Başladı
+2024-03-27 03:48:34.940 INFO  FaultyPayment Metod finished Passed
+2024-03-27 03:48:49.962 INFO  Test Method Başladı
+2024-03-27 03:48:52.754 INFO  UnsuccessfulPaymentWithDebitorCreditCard Metod finished Passed
+2024-03-27 03:49:05.970 INFO  Test Method Başladı
+2024-03-27 03:49:27.601 INFO  ConfirmationbyDebitorCreditCard Metod finished Passed
+2024-03-27 03:49:44.592 INFO  Test Method Başladı
+2024-03-27 03:50:17.315 INFO  PaymentProcessApprovalandDownload Metod finished Passed
+2024-03-27 03:50:36.655 INFO  Test Method Başladı
+2024-03-27 03:50:59.039 INFO  CommunicationMessageSendingProcess Metod finished Failed
+2024-03-27 03:51:12.313 INFO  Test Method Başladı
+2024-03-27 03:51:15.558 INFO  AccesstoEJunkieHomePagefromShopdemoPage Metod finished Passed
+2024-03-27 03:51:27.872 INFO  Test Method Başladı
+2024-03-27 03:52:11.706 INFO  AccesstoInformationVideo Metod finished Passed
+2024-05-09 02:20:22.948 INFO  Test Method Başladı
+2024-05-09 02:20:24.768 INFO  AddingEbookToABasket Metod finished Passed
+2024-05-09 02:22:16.546 INFO  Test Method Başladı
+2024-05-09 02:22:18.374 INFO  AddingEbookToABasket Metod finished Passed
+2024-05-15 00:25:34.256 INFO  Test Method Başladı
+2024-05-15 00:25:36.163 INFO  AddingEbookToABasket Metod finished Passed
