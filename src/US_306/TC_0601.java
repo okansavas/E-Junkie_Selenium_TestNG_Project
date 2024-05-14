@@ -1,8 +1,7 @@
 package US_306;
 
 import US_301.TC_0101_Elements;
-import Utility.BaseDriver;
-import Utility.Tools;
+import Utility.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.Assert;

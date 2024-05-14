@@ -1,13 +1,7 @@
 package Utility;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Action;
-import org.openqa.selenium.interactions.Actions;
-import org.testng.Assert;
+import org.openqa.selenium.*;
 
-import java.awt.*;
 import java.util.List;
 
 public class Tools {
@@ -29,7 +23,6 @@ public class Tools {
         JavascriptExecutor js = (JavascriptExecutor) BaseDriver.driver;
         js.executeScript("arguments[0].scrollIntoView(true);", e);
     }
-
 
 
     public static int randomGenerator(int sinir) {

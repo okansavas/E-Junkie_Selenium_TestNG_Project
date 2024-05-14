@@ -1,16 +1,12 @@
 package US_308;
 
 import US_307.TC_0701_Elements;
-import Utility.BaseDriver;
-import Utility.Tools;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.interactions.Action;
-import org.openqa.selenium.interactions.Actions;
+import Utility.*;
+import org.openqa.selenium.interactions.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import javax.tools.Tool;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 

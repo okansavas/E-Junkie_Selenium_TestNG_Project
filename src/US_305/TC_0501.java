@@ -3,23 +3,19 @@ package US_305;
 import US_301.TC_0101_Elements;
 import US_303.TC_0301_Elements;
 import US_304.TC_0401_Elements;
-import Utility.BaseDriver;
-import Utility.Tools;
+import Utility.*;
 import org.apache.commons.io.FileUtils;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.awt.*;
 import java.awt.event.KeyEvent;
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.Iterator;
-import java.util.Set;
+import java.util.*;
 
 public class TC_0501 extends BaseDriver {
 
