@@ -60,9 +60,9 @@ public class TC_0601 extends BaseDriver {
 
         tce06.emailInput.sendKeys("kamil@osman.com");
 
-        tce06.subjectInput.sendKeys("Konuyu Birde Bana mı Soruyosun");
+        tce06.subjectInput.sendKeys("My request");
 
-        tce06.messageInput.sendKeys("Böyle Esnaflık Olmaz");
+        tce06.messageInput.sendKeys("Please respond my request");
 
         tce06.sendMessageButton.click();
 
