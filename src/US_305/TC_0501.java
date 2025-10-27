@@ -47,7 +47,7 @@ public class TC_0501 extends BaseDriver {
 
         tce03.company.sendKeys("GlobalNomads");
 
-        tce03.orderNotes.sendKeys("Acele edinn!!!!");
+        tce03.orderNotes.sendKeys("hurry up!");
 
         driver.switchTo().frame(tce03.iframe2);
 
