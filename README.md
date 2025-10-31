@@ -1,1 +1,1 @@
-The project was co-produced during the bootcamp program (by Techno Study - BugFighters team)
+This project was built as part of the Techno Study bootcamp by BugFighters team
